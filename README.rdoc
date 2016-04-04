@@ -1,0 +1,4 @@
+= Movie Rating & Review App
+
+
+You can find me on {Twitter}[http://twitter.com/chukkasai] or follow along for more Rails on my blogspot {chsai43}[http://chsai43.blogspot.in]
